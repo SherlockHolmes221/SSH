@@ -1,0 +1,31 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ssh:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/ssh_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="ssh/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ssh" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="spring-boot-starter-web-2.0.0.RELEASE (3)" />
+          <element id="library" level="project" name="spring-data-jpa-2.0.6.RELEASE" />
+          <element id="library" level="project" name="mysql-connector-java-5.1.26 (2)" />
+          <element id="library" level="project" name="commons-pool2-2.3 (2)" />
+          <element id="library" level="project" name="commons-dbcp2-2.1 (2)" />
+          <element id="library" level="project" name="mysql-connector-java-5.1.26" />
+          <element id="library" level="project" name="commons-dbcp2-2.1" />
+          <element id="library" level="project" name="commons-pool2-2.3" />
+          <element id="library" level="project" name="Hibernate 5.2.16-5.2.16" />
+          <element id="library" level="project" name="Spring-4.3.15.RELEASE" />
+          <element id="library" level="project" name="Struts 2-2.5.14.1" />
+          <element id="library" level="project" name="antlr-2.7.7" />
+          <element id="library" level="project" name="spring-data-jpa-2.0.6.RELEASE (2)" />
+          <element id="library" level="project" name="log4j-api-2.10.0" />
+          <element id="library" level="project" name="spring-web-4.3.13.RELEASE" />
+          <element id="library" level="project" name="struts2-spring-plugin-2.5.16" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="spring-boot-starter-web-2.0.0.RELEASE (2)">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/lib/spring-boot-starter-web-2.0.0.RELEASE.jar!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/spring-boot-starter-web-2.0.0.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/spring-boot-starter-web-2.0.0.RELEASE.jar!/" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="jar://$PROJECT_DIR$/lib/spring-boot-starter-web-2.0.0.RELEASE.jar!/" />
+    </NATIVE>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/spring-boot-starter-web-2.0.0.RELEASE.jar!/" />
+    </SOURCES>
+    <jarDirectory url="jar://$PROJECT_DIR$/lib/spring-boot-starter-web-2.0.0.RELEASE.jar!/" recursive="false" />
+    <jarDirectory url="jar://$PROJECT_DIR$/lib/spring-boot-starter-web-2.0.0.RELEASE.jar!/" recursive="false" type="SOURCES" />
+  </library>
+</component>
